@@ -1,0 +1,63 @@
+.fleur__footer-links_home img {
+    width: 340px;
+    height: 280px;
+
+    padding: 18px;
+}
+
+.upper-left {
+    margin: 0 17.5rem
+}
+
+.lower-left {
+    margin: 0 17.5rem
+}
+
+.fleur__footer-features {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem 18rem;
+
+    color: #fff8f0;
+    font-family: 'MONTSERRAT';
+    font-weight: 1000;
+    font-size: 17px;
+    line-height: 25px;
+    /* text-transform: capitalize; */
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+
+.recommend {
+    margin: 0 0.25rem
+}
+
+.skin__analysis {
+    margin: 0 2.2rem
+}
+
+.expert {
+    margin: 0 2.1rem
+}
+
+.community {
+    margin: 0 4.7rem
+}
+
+.fleur__footer-features__descr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem 5rem;
+
+    color: #fff8f0;
+    font-family: 'MONTSERRAT';
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 25px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
